@@ -1,0 +1,17 @@
+.header {
+  font-size: 15px;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+.section-header {
+  font-size: 20px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: #0f0f0f;
+  color: #fff;
+}
+span {
+  font-size: 20px;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
